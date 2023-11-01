@@ -225,12 +225,3 @@ text(tree2, use.n = TRUE, all = TRUE, cex = 0.8)
 plot(tree3)
 text(tree3, use.n = TRUE, all = TRUE, cex = 0.8)
 
-
-
-
-
-
-
-
-
-
